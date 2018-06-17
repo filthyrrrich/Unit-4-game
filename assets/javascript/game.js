@@ -9,7 +9,7 @@ var goal = Math.floor((Math.random() * 102) + 19);
 
 //dynamic chip image
 var imgChip = $("<img>");
-var chips = ["assets/images/green-chip.jpg", "assets/images/blue-chip.jpg", "assets/images/red-chip.jpg", "assets/images/black-chip.jpg"];
+var chips = ["assets/images/red-chip.jpg", "assets/images/green-chip.jpg", "assets/images/blue-chip.jpg", "assets/images/black-chip.jpg"];
 
 //allows chips to be clicked
 function clickEvent() {
